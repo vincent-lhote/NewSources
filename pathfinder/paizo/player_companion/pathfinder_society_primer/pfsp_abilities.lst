@@ -1,0 +1,3 @@
+SOURCELONG:Pathfinder Society Primer	SOURCESHORT:PFSP
+
+Clever Wordplay	KEY:Trait ~ Clever Wordplay	CATEGORY:Special Ability	TYPE:Trait.SocialTrait	PREMULT:1,[PREABILITY:1,CATEGORY=Special Ability,Clever Wordplay],[PREVAREQ:BypassTraitRestriction,1],[!PREABILITY:1,CATEGORY=Special Ability,TYPE.SocialTrait]

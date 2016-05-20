@@ -38,6 +38,7 @@ COPYRIGHT:PCGen dataset conversion for "Pathfinder Player Companion: Pathfinder 
 
 # Data files
 EQUIPMENT:pfsp_equip.lst
+ABILITY:pfsp_abilities.lst
 # Convert to Ability
 #FEAT:pfsp_feats.lst
 
