@@ -39,5 +39,5 @@ COPYRIGHT:Pathfinder RPG Core Rulebook. Copyright 2009, Paizo Inc.; Author: Jaso
 # Data Files
 ABILITY:mc_abilities_class.lst
 ABILITYCATEGORY:mc_abilitycategories.lst
-
+SPELL:mc_spells.lst
 
