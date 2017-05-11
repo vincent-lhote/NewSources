@@ -1,11 +1,12 @@
 CAMPAIGN:Blood of Shadows
-GAMEMODE:Pathfinder
+GAMEMODE:Pathfinder|Pathfinder_PFS
+TYPE:Paizo Publishing.Pathfinder Player Companion
 RANK:3
 GENRE:Fantasy
 BOOKTYPE:Supplement
 SETTING:Pathfinder|Golarion
 STATUS:Alpha
-PRECAMPAIGN:4,INCLUDESBOOKTYPE=Core Rules,INCLUDES=Bestiary,INCLUDES=Advanced Player's Guide,INCLUDES=Ultimate Magic
+PRECAMPAIGN:7,INCLUDESBOOKTYPE=Core Rules,INCLUDES=Bestiary,INCLUDES=Advanced Player's Guide,INCLUDES=Ultimate Magic,INCLUDES=Advanced Race Guide,INCLUDES=Advanced Class Guide,INCLUDES=Occult Adventures
 PUBNAMELONG:Paizo Inc.
 PUBNAMESHORT:Paizo
 #PUBNAMEWEB:http://www.paizo.com
@@ -46,3 +47,5 @@ EQUIPMOD:bos_equipmods.lst
 SPELL:bos_spells.lst
 TEMPLATE:bos_templates.lst
 WEAPONPROF:bos_profs_weapon.lst
+
+FORWARDREF:ABILITY=Special Ability|Skill unlock ~ Stealth
